@@ -1,4 +1,4 @@
-### Hi, I'm Ayesha
+## Hi, I'm Ayesha
 
 AI engineer and product owner at [aim2balance.ai](https://aim2balance.ai) - a responsible-AI platform where every paid prompt funds ecosystem restoration, incubated by the German NGO [Bergwaldprojekt](https://www.bergwaldprojekt.de/).
 
